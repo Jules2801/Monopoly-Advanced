@@ -10,9 +10,9 @@ Jeu inspiré du Monopoly
 - Maissouradze    Nicolas
 
 ## Lancement du jeu
-Il faut java 21 et lancé la commande suivante : 
+Il faut java 21 et lancer la commande suivante : 
 ```
-gradlew run
+./gradlew run
 ```
 
 ## Rapport
